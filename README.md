@@ -123,4 +123,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Chandrabose S. - [Email](chandrabose20002@gmail.com)
 
-Project Link: [https://github.com/yourusername/sql-data-cleaning](https://github.com/chandrabose/sql-data-cleaning)
+Project Link: [https://github.com/chandrabose/sql-data-cleaning](https://github.com/chandrabose/sql-data-cleaning)
